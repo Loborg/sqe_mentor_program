@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+
+# Gradle
+.gradle/
+build/
+bin/
+.db
+.log
+
+# Maven
+log/
+target/
+
+# Eclipse
+.classpath
+.project
+.metadata
+.checkstyle
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+atlassian-ide-plugin.xml
+out/
+
+# Allure results
+allure-results/
+
+# Cucumber reports
+cucumber-results/
+
+# Exclude ignore for gradle wrapper
+!/gradle/wrapper/gradle-wrapper.jar
+
+# Test-data generated ouputs
+generated_data/
+
+# Exclude changes in local properties
+/local.properties
+
+# Report Portal local lock files in abort case
+reportportal.lock
+reportportal.sync
