@@ -17,3 +17,5 @@ Elfognak és felkötnek,
 áldott földdel elfödnek
 s halált hozó fű terem
 gyönyörűszép szívemen.
+
+First commit.
